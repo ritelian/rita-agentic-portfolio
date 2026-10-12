@@ -1,6 +1,6 @@
 # Rita Martins — AI Learning & Agentic Systems Designer
 
-Independent portfolio with a Claude Code and GitHub process study, learning design practice and a clearly labelled fictional interactive example.
+Independent portfolio with a Claude Code and GitHub methodology overview, learning design practice and a clearly labelled fictional interactive example.
 
 Static HTML, CSS and JavaScript. No build step or external runtime services.
 
